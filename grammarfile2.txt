@@ -1,0 +1,4 @@
+S -> AVal A BVal
+A -> AVal A BVal | \
+AVal -> a
+BVal -> b

@@ -1,0 +1,4 @@
+S -> Aval X Bval X | Bval X Aval X
+X -> Aval X Bval X | Bval X Aval X | \
+Aval -> a
+Bval -> b
